@@ -51,7 +51,6 @@ The chatbot is deployed as a **Streamlit web application**, simulating a real-wo
 
 ## 🚀 Installation & Usage
 
-### Clone the Repository
 ```bash
 git clone https://github.com/your-username/customer-support-chatbot.git
 
