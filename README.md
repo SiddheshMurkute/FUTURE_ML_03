@@ -9,7 +9,7 @@ Instead of relying on traditional rule-based logic or manual neural network trai
 
 ## ✨ Key Features
 
-### 🧠 Generative AI Integration
+### 🧠 Generative AI Integration (LLM)
 Powered by **Google's Gemini model**, the chatbot understands complex queries and conversational context without needing manual rule definitions. It can summarize data, answer specific questions, and handle follow-ups naturally.
 
 ### 📊 Data-Driven Responses
